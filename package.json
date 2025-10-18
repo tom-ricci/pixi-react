@@ -69,7 +69,7 @@
   },
   "dependencies": {
     "its-fine": "^2.0.0",
-    "react-reconciler": "0.31.0"
+    "react-reconciler": "0.33.0"
   },
   "devDependencies": {
     "@pixi/extension-scripts": "^4.0.0",
@@ -80,7 +80,7 @@
     "@testing-library/react": "^16.1.0",
     "@testing-library/user-event": "^14.5.2",
     "@types/react": "^19.0.0",
-    "@types/react-reconciler": "^0.28.9",
+    "@types/react-reconciler": "^0.32.2",
     "@vitejs/plugin-react": "^4.3.1",
     "@vitest/browser": "^2.0.4",
     "eslint-plugin-react-hooks": "^5.2.0",
